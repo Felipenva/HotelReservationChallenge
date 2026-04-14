@@ -19,7 +19,6 @@ class Guest:
     def __str__(self):
         return f"Guest {self.name} ({self.email}) of type {self.type_}"
 
-
 # TODO: Implement Reservation class here
 
 
